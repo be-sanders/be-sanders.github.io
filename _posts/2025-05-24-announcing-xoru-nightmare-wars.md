@@ -12,18 +12,10 @@ Announcing the release of Xoru: The Nightmare Wars DEMO on Steam and Itch.
 
 [Castlelore Studios](https://castlelorestudios.com)
 
+!["Xoru Picture 1"](/assets/images/xoru/xoru_itch1.jpeg)
 
-![Itch2](/assets/images/xoru_itch2.jpeg)
-![Itch3](/assets/images/xoru_itch3.jpeg)
-![Itch4](/assets/images/xoru_itch4.jpeg)
-![Itch5](/assets/images/xoru_itch5.jpeg)
-![Itch6](/assets/images/xoru_itch6.jpeg)
-![Itch7](/assets/images/xoru_itch7.jpeg)
-![Itch8](/assets/images/xoru_itch8.jpeg)
-![Itch9](/assets/images/xoru_itch9.jpeg)
-![Itch10](/assets/images/xoru_itch10.jpeg)
-![Itch11](/assets/images/xoru_itch11.jpeg)
-![Itch12](/assets/images/xoru_itch12.jpeg)
-![Itch13](/assets/images/xoru_itch13.jpeg)
+!["Xoru Picture 2"](/assets/images/xoru/xoru_itch2.jpeg)
 
+!["Xoru Picture 3"](/assets/images/xoru/xoru_itch3.jpeg)
 
+!["Xoru Picture 4"](/assets/images/xoru/xoru_itch4.jpeg)
