@@ -6,3 +6,4 @@ layout: home
 ---
 
 ![Koa](assets/images/IMG_9849.jpeg)
+![Micawber](assets/images/IMG_9882.jpeg)
