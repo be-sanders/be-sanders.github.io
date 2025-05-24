@@ -13,5 +13,3 @@ Announcing the release of Xoru: The Nightmare Wars DEMO on Steam and Itch.
 
 [Castlelore Studios](https://castlelorestudios.com)
 
-{% include my-gallery.html folder="/assets/images/xoru/" %}
-
