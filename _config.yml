@@ -59,3 +59,5 @@ plugins:
 #   - vendor/ruby/
 
 remote_theme: daattali/beautiful-jekyll@6.0.1
+
+markdown: redcarpet
