@@ -28,7 +28,7 @@ twitter_username: besanders
 github_username:  be-sanders
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
