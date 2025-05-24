@@ -3,7 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Brian Sanders
+subtitle: Software Specialist
+cover-img: ["assets/images/IMG_9849.jpeg", 
+    "assets/images/IMG_9882.jpeg"]
+
 ---
 
-![Koa](assets/images/IMG_9849.jpeg)
-![Micawber](assets/images/IMG_9882.jpeg)
