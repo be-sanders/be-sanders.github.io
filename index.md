@@ -6,7 +6,13 @@ layout: home
 title: Brian Sanders
 subtitle: Software Specialist
 cover-img: ["assets/images/IMG_9849.jpeg" : "Koa", 
-    "assets/images/IMG_9882.jpeg": "Micawber"]
+    "assets/images/IMG_9882.jpeg": "Micawber",
+    "assets/images/valley_temples.jpeg": "Valley of the Temples, Byodo-In Temple",
+    "assets/images/hawaii_sign.jpeg": "Polynesian Cultural Center",
+    "assets/images/islamic_window.jpeg": "Islamic Window",
+    "assets/images/don_beachcomber.jpeg": "Don the Beachcomber",
+    "assets/images/islamic_garden.jpeg": "Islamic Garden",
+    "assets/images/sunset.jpeg": "Sunset"]
 
 ---
 
