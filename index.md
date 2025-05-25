@@ -12,7 +12,15 @@ cover-img: ["/assets/images/IMG_9849.jpeg" : "Koa",
     "/assets/images/islamic_window.jpeg": "Islamic Window",
     "/assets/images/don_beachcomber.jpeg": "Don the Beachcomber",
     "/assets/images/islamic_garden.jpeg": "Islamic Garden",
-    "/assets/images/sunset.jpeg": "Sunset"]
+    "/assets/images/sunset.jpeg": "Sunset",
+    "/assets/images/hibiscus.jpeg": "Hibiscus",
+    "/assets/images/DSC03140.jpeg": "",
+    "/assets/images/DSC03388.jpeg": "",
+    "/assets/images/DSC04116.jpeg": "",
+    "/assets/images/DSC05111.jpeg": "",
+    "/assets/images/DSC05315.jpeg": "",
+    "/assets/images/DSC07941.jpeg": "",
+    "/assets/images/DSC08842.jpeg": ""]
 
 ---
 
