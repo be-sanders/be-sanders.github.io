@@ -9,7 +9,8 @@ date: 2025-05-24 08:00:35 -1000
 permalink: /assets/images/xoru/
 ---
 
-Announcing the release of Xoru: The Nightmare Wars DEMO on Steam and Itch.
+## Announcing the release of Xoru: The Nightmare Wars DEMO on Steam and Itch.
 
 [Castlelore Studios](https://castlelorestudios.com)
 
+{% include my-gallery.html folder="/assets/images/xoru/" %}
