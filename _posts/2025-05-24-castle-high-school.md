@@ -10,5 +10,9 @@ date: 2025-05-24 10:00:35 -1000
 
 I will be teaching the Windward Community College course ICS 107: Web Site Development this Fall 2025 at Castle High School, Kaneohe. 
 
+[Windward Community College](https://windward.hawaii.edu/)
+
+[James B. Castle High School](https://www.castlehs.k12.hi.us/)
+
 Go Knights!
 
