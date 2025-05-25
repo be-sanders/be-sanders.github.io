@@ -2,9 +2,9 @@
 layout: default
 title: About
 ---
-# About page
+# About Brian
 
-![Me](assets/images/brian_luxor.png)
+![Me at the Luxor](assets/images/brian_luxor.png)
 
 I am a software engineer and a visual novel writer based in Honolulu, Hawai`i.
 
