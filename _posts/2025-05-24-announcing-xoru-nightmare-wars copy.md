@@ -5,7 +5,7 @@ subtitle: For when the world shifts and light fades to darkness, even sweet drea
 cover-img: assets/images/xoru.jpeg
 share-img: assets/images/xoru.jpeg
 author: Brian Sanders
-date: 2025-05-23 17:00:35 -1000
+date: 2025-05-24 08:00:35 -1000
 permalink: /assets/images/xoru/
 ---
 

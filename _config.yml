@@ -59,31 +59,3 @@ plugins:
 #   - vendor/ruby/
 
 remote_theme: daattali/beautiful-jekyll@6.0.1
-
-markdown: redcarpet
-
-picture:
-  source: "assets/images/_fullsize"
-  output: "generated"
-  markup: "picture"
-  presets:
-    default:
-      ...
-    main:
-      ...
-    gallery:
-      ...
-
-gallery:
-  ppi: [1, 1.5]
-  attr:
-    class: "gallery-pict"
-    itemprop: "image"
-  source_medium:
-    media: "(min-width: 40em)"
-    width: "600"
-    height: "300"
-  source_default: 
-    width: "300"
-
-    
