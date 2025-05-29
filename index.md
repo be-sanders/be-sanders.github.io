@@ -21,7 +21,8 @@ cover-img: ["/assets/images/IMG_9849.jpeg" : "Koa",
     "/assets/images/DSC05111.jpeg": "",
     "/assets/images/DSC05315.jpeg": "",
     "/assets/images/DSC07941.jpeg": "",
-    "/assets/images/DSC08842.jpeg": ""]
+    "/assets/images/DSC08842.jpeg": "",
+    "/assets/images/DSC08855.jpeg": ""]
 
 ---
 
